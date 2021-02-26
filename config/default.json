@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "yourSecureKey",
+  "db": "mongodb://localhost/support",
+  "requiresAuth": true
+}
